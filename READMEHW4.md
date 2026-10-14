@@ -31,6 +31,7 @@
 5. **Конец**
 
 ### Блок-схема
+![l4](https://github.com/Skochergin21/Lab4/blob/main/BSHM_L4.png)
 
 
 ## Реализация программы
